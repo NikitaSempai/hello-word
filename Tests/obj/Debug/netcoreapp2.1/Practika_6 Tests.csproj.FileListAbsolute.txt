@@ -1,0 +1,19 @@
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\bin\Debug\netcoreapp2.1\Practika_6 Tests.deps.json
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\bin\Debug\netcoreapp2.1\Practika_6 Tests.runtimeconfig.json
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\bin\Debug\netcoreapp2.1\Practika_6 Tests.runtimeconfig.dev.json
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\bin\Debug\netcoreapp2.1\Practika_6 Tests.dll
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\bin\Debug\netcoreapp2.1\Practika_6 Tests.pdb
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\bin\Debug\netcoreapp2.1\Practika 6.dll
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\bin\Debug\netcoreapp2.1\Practika 6.pdb
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\obj\Debug\netcoreapp2.1\Practika_6 Tests.csprojAssemblyReference.cache
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\obj\Debug\netcoreapp2.1\Practika_6 Tests.csproj.CoreCompileInputs.cache
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\obj\Debug\netcoreapp2.1\Practika_6 Tests.AssemblyInfoInputs.cache
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\obj\Debug\netcoreapp2.1\Practika_6 Tests.AssemblyInfo.cs
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\obj\Debug\netcoreapp2.1\Practika_6 Tests.csproj.CopyComplete
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\obj\Debug\netcoreapp2.1\Practika_6 Tests.dll
+C:\Users\229193-3\source\repos\Practika 6\Practika_6 Tests\obj\Debug\netcoreapp2.1\Practika_6 Tests.pdb
+E:\Практика(скриншоты)\Practika 6\Practika_6 Tests\obj\Debug\netcoreapp2.1\Practika_6 Tests.dll
+E:\Практика(скриншоты)\Practika 6\Practika_6 Tests\obj\Debug\netcoreapp2.1\Practika_6 Tests.pdb
